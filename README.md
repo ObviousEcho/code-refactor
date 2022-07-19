@@ -29,9 +29,9 @@ The following image shows the web application's appearance and functionality:
 
 This assignment focused on refactoring existing code to meet modern coding conventions.  Starter code was provided for HTML as well as CSS.  The browser rendering as depicted above was not to change.  The code was to be improved as follows:
 
--Use of semantic HTML elements
--Alt attributes for images
--Logical order of elements
--Descriptive HTML title
--Efficient CSS
--Descriptive comments within code
+* Use of semantic HTML elements
+* Alt attributes for images
+* Logical order of elements
+* Descriptive HTML title
+* Efficient CSS
+* Descriptive comments within code
